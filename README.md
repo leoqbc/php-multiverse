@@ -1,2 +1,2 @@
 # php-multiverse
-Docker file to php 7.4 apache and pdo_sqlsrv drive
+Dockerfile to php 7.4 apache unixodbc and pdo_sqlsrv drive
